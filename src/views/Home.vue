@@ -75,7 +75,7 @@
 	export default {
 		data() {
 			return {
-				sysName:'爱购网后台管理_Taurus',
+				sysName:'爱购网管理平台',
 				collapsed:false,
 				sysUserName: '',
 				sysUserAvatar: '',
